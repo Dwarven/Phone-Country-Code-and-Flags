@@ -1,0 +1,1436 @@
+[
+  {
+    "code" : 355,
+    "country_en" : "Albania",
+    "country_short" : "AL",
+    "country_cn" : "阿尔巴尼亚"
+  },
+  {
+    "code" : 213,
+    "country_en" : "Algeria",
+    "country_short" : "DZ",
+    "country_cn" : "阿尔及利亚"
+  },
+  {
+    "code" : 93,
+    "country_en" : "Afghanistan",
+    "country_short" : "AF",
+    "country_cn" : "阿富汗"
+  },
+  {
+    "code" : 54,
+    "country_en" : "Argentina",
+    "country_short" : "AR",
+    "country_cn" : "阿根廷"
+  },
+  {
+    "code" : 971,
+    "country_en" : "United Arab Emirates",
+    "country_short" : "AE",
+    "country_cn" : "阿联酋"
+  },
+  {
+    "code" : 297,
+    "country_en" : "Aruba",
+    "country_short" : "AW",
+    "country_cn" : "阿鲁巴"
+  },
+  {
+    "code" : 968,
+    "country_en" : "Oman",
+    "country_short" : "OM",
+    "country_cn" : "阿曼"
+  },
+  {
+    "code" : 994,
+    "country_en" : "Azerbaijan",
+    "country_short" : "AZ",
+    "country_cn" : "阿塞拜疆"
+  },
+  {
+    "code" : 20,
+    "country_en" : "Egypt",
+    "country_short" : "EG",
+    "country_cn" : "埃及"
+  },
+  {
+    "code" : 251,
+    "country_en" : "Ethiopia",
+    "country_short" : "ET",
+    "country_cn" : "埃塞俄比亚"
+  },
+  {
+    "code" : 353,
+    "country_en" : "Ireland",
+    "country_short" : "IE",
+    "country_cn" : "爱尔兰"
+  },
+  {
+    "code" : 372,
+    "country_en" : "Estonia",
+    "country_short" : "EE",
+    "country_cn" : "爱沙尼亚"
+  },
+  {
+    "code" : 376,
+    "country_en" : "Andorra",
+    "country_short" : "AD",
+    "country_cn" : "安道尔"
+  },
+  {
+    "code" : 244,
+    "country_en" : "Angola",
+    "country_short" : "AO",
+    "country_cn" : "安哥拉"
+  },
+  {
+    "code" : 1,
+    "country_en" : "Anguilla",
+    "country_short" : "AI",
+    "country_cn" : "安圭拉"
+  },
+  {
+    "code" : 1,
+    "country_en" : "Antigua",
+    "country_short" : "AG",
+    "country_cn" : "安提瓜岛"
+  },
+  {
+    "code" : 43,
+    "country_en" : "Austria",
+    "country_short" : "AT",
+    "country_cn" : "奥地利"
+  },
+  {
+    "code" : 61,
+    "country_en" : "Australia",
+    "country_short" : "AU",
+    "country_cn" : "澳大利亚"
+  },
+  {
+    "code" : 853,
+    "country_en" : "Macau",
+    "country_short" : "MO",
+    "country_cn" : "澳门"
+  },
+  {
+    "code" : 1,
+    "country_en" : "Barbados",
+    "country_short" : "BB",
+    "country_cn" : "巴巴多斯岛"
+  },
+  {
+    "code" : 675,
+    "country_en" : "Papua New Guinea",
+    "country_short" : "PG",
+    "country_cn" : "巴布亚新几内亚"
+  },
+  {
+    "code" : 1,
+    "country_en" : "The Bahamas",
+    "country_short" : "BS",
+    "country_cn" : "巴哈马"
+  },
+  {
+    "code" : 92,
+    "country_en" : "Pakistan",
+    "country_short" : "PK",
+    "country_cn" : "巴基斯坦"
+  },
+  {
+    "code" : 595,
+    "country_en" : "Paraguay",
+    "country_short" : "PY",
+    "country_cn" : "巴拉圭"
+  },
+  {
+    "code" : 970,
+    "country_en" : "Palestine",
+    "country_short" : "PS",
+    "country_cn" : "巴勒斯坦"
+  },
+  {
+    "code" : 973,
+    "country_en" : "Bahrain",
+    "country_short" : "BH",
+    "country_cn" : "巴林"
+  },
+  {
+    "code" : 507,
+    "country_en" : "Panama",
+    "country_short" : "PA",
+    "country_cn" : "巴拿马"
+  },
+  {
+    "code" : 55,
+    "country_en" : "Brazil",
+    "country_short" : "BR",
+    "country_cn" : "巴西"
+  },
+  {
+    "code" : 375,
+    "country_en" : "Belarus",
+    "country_short" : "BY",
+    "country_cn" : "白俄罗斯"
+  },
+  {
+    "code" : 1,
+    "country_en" : "Bermuda",
+    "country_short" : "BM",
+    "country_cn" : "百慕大"
+  },
+  {
+    "code" : 359,
+    "country_en" : "Bulgaria",
+    "country_short" : "BG",
+    "country_cn" : "保加利亚"
+  },
+  {
+    "code" : 1,
+    "country_en" : "Northern Mariana Islands",
+    "country_short" : "MP",
+    "country_cn" : "北马里亚纳群岛"
+  },
+  {
+    "code" : 229,
+    "country_en" : "Benin",
+    "country_short" : "BJ",
+    "country_cn" : "贝宁"
+  },
+  {
+    "code" : 32,
+    "country_en" : "Belgium",
+    "country_short" : "BE",
+    "country_cn" : "比利时"
+  },
+  {
+    "code" : 354,
+    "country_en" : "Iceland",
+    "country_short" : "IS",
+    "country_cn" : "冰岛"
+  },
+  {
+    "code" : 1,
+    "country_en" : "Puerto Rico",
+    "country_short" : "PR",
+    "country_cn" : "波多黎哥"
+  },
+  {
+    "code" : 48,
+    "country_en" : "Poland",
+    "country_short" : "PL",
+    "country_cn" : "波兰"
+  },
+  {
+    "code" : 387,
+    "country_en" : "Bosnia and Herzegovina",
+    "country_short" : "BA",
+    "country_cn" : "波斯尼亚和黑塞哥维那"
+  },
+  {
+    "code" : 591,
+    "country_en" : "Bolivia",
+    "country_short" : "BO",
+    "country_cn" : "玻利维亚"
+  },
+  {
+    "code" : 501,
+    "country_en" : "Belize",
+    "country_short" : "BZ",
+    "country_cn" : "伯利兹"
+  },
+  {
+    "code" : 680,
+    "country_en" : "Palau",
+    "country_short" : "PW",
+    "country_cn" : "帛琉"
+  },
+  {
+    "code" : 267,
+    "country_en" : "Botswana",
+    "country_short" : "BW",
+    "country_cn" : "博茨瓦纳"
+  },
+  {
+    "code" : 975,
+    "country_en" : "Bhutan",
+    "country_short" : "BT",
+    "country_cn" : "不丹"
+  },
+  {
+    "code" : 226,
+    "country_en" : "Burkina Faso",
+    "country_short" : "BF",
+    "country_cn" : "布基纳法索"
+  },
+  {
+    "code" : 257,
+    "country_en" : "Burundi",
+    "country_short" : "BI",
+    "country_cn" : "布隆迪"
+  },
+  {
+    "code" : 850,
+    "country_en" : "North Korea",
+    "country_short" : "KP",
+    "country_cn" : "朝鲜"
+  },
+  {
+    "code" : 240,
+    "country_en" : "Equatorial Guinea",
+    "country_short" : "GQ",
+    "country_cn" : "赤道几内亚"
+  },
+  {
+    "code" : 45,
+    "country_en" : "Denmark",
+    "country_short" : "DK",
+    "country_cn" : "丹麦"
+  },
+  {
+    "code" : 49,
+    "country_en" : "Germany",
+    "country_short" : "DE",
+    "country_cn" : "德国"
+  },
+  {
+    "code" : 670,
+    "country_en" : "Timor-Leste",
+    "country_short" : "TL",
+    "country_cn" : "东帝汶"
+  },
+  {
+    "code" : 228,
+    "country_en" : "Togo",
+    "country_short" : "TG",
+    "country_cn" : "多哥"
+  },
+  {
+    "code" : 1,
+    "country_en" : "Dominica",
+    "country_short" : "DM",
+    "country_cn" : "多米尼加"
+  },
+  {
+    "code" : 1,
+    "country_en" : "Dominican Republic",
+    "country_short" : "DO",
+    "country_cn" : "多米尼加共和国"
+  },
+  {
+    "code" : 7,
+    "country_en" : "Russia",
+    "country_short" : "RU",
+    "country_cn" : "俄罗斯"
+  },
+  {
+    "code" : 593,
+    "country_en" : "Ecuador",
+    "country_short" : "EC",
+    "country_cn" : "厄瓜多尔"
+  },
+  {
+    "code" : 291,
+    "country_en" : "Eritrea",
+    "country_short" : "ER",
+    "country_cn" : "厄立特里亚"
+  },
+  {
+    "code" : 33,
+    "country_en" : "France",
+    "country_short" : "FR",
+    "country_cn" : "法国"
+  },
+  {
+    "code" : 298,
+    "country_en" : "Faroe Islands",
+    "country_short" : "FO",
+    "country_cn" : "法罗群岛"
+  },
+  {
+    "code" : 689,
+    "country_en" : "French Polynesia",
+    "country_short" : "PF",
+    "country_cn" : "法属波利尼西亚"
+  },
+  {
+    "code" : 594,
+    "country_en" : "French Guiana",
+    "country_short" : "GF",
+    "country_cn" : "法属圭亚那"
+  },
+  {
+    "code" : 508,
+    "country_en" : "Saint Pierre and Miquelon",
+    "country_short" : "PM",
+    "country_cn" : "法属圣皮埃尔和密克隆岛"
+  },
+  {
+    "code" : 39,
+    "country_en" : "Vatican City",
+    "country_short" : "VA",
+    "country_cn" : "梵蒂冈城"
+  },
+  {
+    "code" : 63,
+    "country_en" : "Philippines",
+    "country_short" : "PH",
+    "country_cn" : "菲律宾"
+  },
+  {
+    "code" : 679,
+    "country_en" : "Fiji",
+    "country_short" : "FJ",
+    "country_cn" : "斐济"
+  },
+  {
+    "code" : 358,
+    "country_en" : "Finland",
+    "country_short" : "FI",
+    "country_cn" : "芬兰"
+  },
+  {
+    "code" : 238,
+    "country_en" : "Cape Verde",
+    "country_short" : "CV",
+    "country_cn" : "佛得角"
+  },
+  {
+    "code" : 500,
+    "country_en" : "Falkland Islands",
+    "country_short" : "FK",
+    "country_cn" : "福克兰群岛"
+  },
+  {
+    "code" : 220,
+    "country_en" : "The Gambia",
+    "country_short" : "GM",
+    "country_cn" : "冈比亚"
+  },
+  {
+    "code" : 242,
+    "country_en" : "Republic of the Congo",
+    "country_short" : "CG",
+    "country_cn" : "刚果共和国"
+  },
+  {
+    "code" : 243,
+    "country_en" : "Democratic Republic of the Congo",
+    "country_short" : "CD",
+    "country_cn" : "刚果民主共和国"
+  },
+  {
+    "code" : 57,
+    "country_en" : "Colombia",
+    "country_short" : "CO",
+    "country_cn" : "哥伦比亚"
+  },
+  {
+    "code" : 506,
+    "country_en" : "Costa Rica",
+    "country_short" : "CR",
+    "country_cn" : "哥斯达黎加"
+  },
+  {
+    "code" : 1,
+    "country_en" : "Grenada",
+    "country_short" : "GD",
+    "country_cn" : "格林纳达岛"
+  },
+  {
+    "code" : 299,
+    "country_en" : "Greenland",
+    "country_short" : "GL",
+    "country_cn" : "格陵兰"
+  },
+  {
+    "code" : 995,
+    "country_en" : "Georgia",
+    "country_short" : "GE",
+    "country_cn" : "格鲁吉亚"
+  },
+  {
+    "code" : 44,
+    "country_en" : "Guernsey",
+    "country_short" : "GG",
+    "country_cn" : "根西岛"
+  },
+  {
+    "code" : 53,
+    "country_en" : "Cuba",
+    "country_short" : "CU",
+    "country_cn" : "古巴"
+  },
+  {
+    "code" : 590,
+    "country_en" : "Guadeloupe",
+    "country_short" : "GP",
+    "country_cn" : "瓜德罗普岛"
+  },
+  {
+    "code" : 1,
+    "country_en" : "Guam",
+    "country_short" : "GU",
+    "country_cn" : "关岛"
+  },
+  {
+    "code" : 592,
+    "country_en" : "Guyana",
+    "country_short" : "GY",
+    "country_cn" : "圭亚那"
+  },
+  {
+    "code" : 7,
+    "country_en" : "Kazakhstan",
+    "country_short" : "KZ",
+    "country_cn" : "哈萨克斯坦"
+  },
+  {
+    "code" : 509,
+    "country_en" : "Haiti",
+    "country_short" : "HT",
+    "country_cn" : "海地"
+  },
+  {
+    "code" : 82,
+    "country_en" : "South Korea",
+    "country_short" : "KR",
+    "country_cn" : "韩国"
+  },
+  {
+    "code" : 31,
+    "country_en" : "Netherlands",
+    "country_short" : "NL",
+    "country_cn" : "荷兰"
+  },
+  {
+    "code" : 599,
+    "country_en" : "Bonaire, Sint Eustatius and Saba",
+    "country_short" : "BQ",
+    "country_cn" : "荷兰加勒比区"
+  },
+  {
+    "code" : 382,
+    "country_en" : "Montenegro",
+    "country_short" : "ME",
+    "country_cn" : "黑山共和国"
+  },
+  {
+    "code" : 504,
+    "country_en" : "Honduras",
+    "country_short" : "HN",
+    "country_cn" : "洪都拉斯"
+  },
+  {
+    "code" : 686,
+    "country_en" : "Kiribati",
+    "country_short" : "KI",
+    "country_cn" : "基里巴斯"
+  },
+  {
+    "code" : 253,
+    "country_en" : "Djibouti",
+    "country_short" : "DJ",
+    "country_cn" : "吉布提"
+  },
+  {
+    "code" : 996,
+    "country_en" : "Kyrgyzstan",
+    "country_short" : "KG",
+    "country_cn" : "吉尔吉斯斯坦"
+  },
+  {
+    "code" : 224,
+    "country_en" : "Guinea",
+    "country_short" : "GN",
+    "country_cn" : "几内亚"
+  },
+  {
+    "code" : 245,
+    "country_en" : "Guinea-Bissau",
+    "country_short" : "GW",
+    "country_cn" : "几内亚比绍共和国"
+  },
+  {
+    "code" : 1,
+    "country_en" : "Canada",
+    "country_short" : "CA",
+    "country_cn" : "加拿大"
+  },
+  {
+    "code" : 233,
+    "country_en" : "Ghana",
+    "country_short" : "GH",
+    "country_cn" : "加纳"
+  },
+  {
+    "code" : 241,
+    "country_en" : "Gabon",
+    "country_short" : "GA",
+    "country_cn" : "加蓬共和国"
+  },
+  {
+    "code" : 855,
+    "country_en" : "Cambodia",
+    "country_short" : "KH",
+    "country_cn" : "柬埔寨"
+  },
+  {
+    "code" : 420,
+    "country_en" : "Czech Republic",
+    "country_short" : "CZ",
+    "country_cn" : "捷克"
+  },
+  {
+    "code" : 263,
+    "country_en" : "Zimbabwe",
+    "country_short" : "ZW",
+    "country_cn" : "津巴布韦"
+  },
+  {
+    "code" : 237,
+    "country_en" : "Cameroon",
+    "country_short" : "CM",
+    "country_cn" : "喀麦隆"
+  },
+  {
+    "code" : 974,
+    "country_en" : "Qatar",
+    "country_short" : "QA",
+    "country_cn" : "卡塔尔"
+  },
+  {
+    "code" : 1,
+    "country_en" : "Cayman Islands",
+    "country_short" : "KY",
+    "country_cn" : "开曼群岛"
+  },
+  {
+    "code" : 269,
+    "country_en" : "Comoros",
+    "country_short" : "KM",
+    "country_cn" : "科摩罗"
+  },
+  {
+    "code" : 381,
+    "country_en" : "Kosovo",
+    "country_short" : "XK",
+    "country_cn" : "科索沃"
+  },
+  {
+    "code" : 225,
+    "country_en" : "Côte d'Ivoire",
+    "country_short" : "CI",
+    "country_cn" : "科特迪瓦"
+  },
+  {
+    "code" : 965,
+    "country_en" : "Kuwait",
+    "country_short" : "KW",
+    "country_cn" : "科威特"
+  },
+  {
+    "code" : 385,
+    "country_en" : "Croatia",
+    "country_short" : "HR",
+    "country_cn" : "克罗地亚"
+  },
+  {
+    "code" : 254,
+    "country_en" : "Kenya",
+    "country_short" : "KE",
+    "country_cn" : "肯尼亚"
+  },
+  {
+    "code" : 682,
+    "country_en" : "Cook Islands",
+    "country_short" : "CK",
+    "country_cn" : "库克群岛"
+  },
+  {
+    "code" : 599,
+    "country_en" : "Curaçao",
+    "country_short" : "CW",
+    "country_cn" : "库拉索"
+  },
+  {
+    "code" : 371,
+    "country_en" : "Latvia",
+    "country_short" : "LV",
+    "country_cn" : "拉脱维亚"
+  },
+  {
+    "code" : 266,
+    "country_en" : "Lesotho",
+    "country_short" : "LS",
+    "country_cn" : "莱索托"
+  },
+  {
+    "code" : 856,
+    "country_en" : "Laos",
+    "country_short" : "LA",
+    "country_cn" : "老挝"
+  },
+  {
+    "code" : 961,
+    "country_en" : "Lebanon",
+    "country_short" : "LB",
+    "country_cn" : "黎巴嫩"
+  },
+  {
+    "code" : 370,
+    "country_en" : "Lithuania",
+    "country_short" : "LT",
+    "country_cn" : "立陶宛"
+  },
+  {
+    "code" : 231,
+    "country_en" : "Liberia",
+    "country_short" : "LR",
+    "country_cn" : "利比亚"
+  },
+  {
+    "code" : 218,
+    "country_en" : "Libya",
+    "country_short" : "LY",
+    "country_cn" : "利比亞"
+  },
+  {
+    "code" : 423,
+    "country_en" : "Liechtenstein",
+    "country_short" : "LI",
+    "country_cn" : "列支敦士登"
+  },
+  {
+    "code" : 262,
+    "country_en" : "Réunion",
+    "country_short" : "RE",
+    "country_cn" : "留尼汪"
+  },
+  {
+    "code" : 352,
+    "country_en" : "Luxembourg",
+    "country_short" : "LU",
+    "country_cn" : "卢森堡"
+  },
+  {
+    "code" : 250,
+    "country_en" : "Rwanda",
+    "country_short" : "RW",
+    "country_cn" : "卢旺达"
+  },
+  {
+    "code" : 40,
+    "country_en" : "Romania",
+    "country_short" : "RO",
+    "country_cn" : "罗马尼亚"
+  },
+  {
+    "code" : 261,
+    "country_en" : "Madagascar",
+    "country_short" : "MG",
+    "country_cn" : "马达加斯加"
+  },
+  {
+    "code" : 44,
+    "country_en" : "Isle Of Man",
+    "country_short" : "IM",
+    "country_cn" : "马恩岛"
+  },
+  {
+    "code" : 960,
+    "country_en" : "Maldives",
+    "country_short" : "MV",
+    "country_cn" : "马尔代夫"
+  },
+  {
+    "code" : 356,
+    "country_en" : "Malta",
+    "country_short" : "MT",
+    "country_cn" : "马耳他"
+  },
+  {
+    "code" : 265,
+    "country_en" : "Malawi",
+    "country_short" : "MW",
+    "country_cn" : "马拉维"
+  },
+  {
+    "code" : 60,
+    "country_en" : "Malaysia",
+    "country_short" : "MY",
+    "country_cn" : "马来西亚"
+  },
+  {
+    "code" : 223,
+    "country_en" : "Mali",
+    "country_short" : "ML",
+    "country_cn" : "马里"
+  },
+  {
+    "code" : 389,
+    "country_en" : "Macedonia",
+    "country_short" : "MK",
+    "country_cn" : "马其顿"
+  },
+  {
+    "code" : 692,
+    "country_en" : "Marshall Islands",
+    "country_short" : "MH",
+    "country_cn" : "马绍尔群岛"
+  },
+  {
+    "code" : 596,
+    "country_en" : "Martinique",
+    "country_short" : "MQ",
+    "country_cn" : "马提尼岛"
+  },
+  {
+    "code" : 262,
+    "country_en" : "Mayotte",
+    "country_short" : "YT",
+    "country_cn" : "马约特"
+  },
+  {
+    "code" : 230,
+    "country_en" : "Mauritius",
+    "country_short" : "MU",
+    "country_cn" : "毛里求赐"
+  },
+  {
+    "code" : 222,
+    "country_en" : "Mauritania",
+    "country_short" : "MR",
+    "country_cn" : "毛里塔尼亚"
+  },
+  {
+    "code" : 1,
+    "country_en" : "United States",
+    "country_short" : "US",
+    "country_cn" : "美国"
+  },
+  {
+    "code" : 1,
+    "country_en" : "American Samoa",
+    "country_short" : "AS",
+    "country_cn" : "美属萨摩亚"
+  },
+  {
+    "code" : 1,
+    "country_en" : "US Virgin Islands",
+    "country_short" : "VI",
+    "country_cn" : "美属维京群岛"
+  },
+  {
+    "code" : 976,
+    "country_en" : "Mongolia",
+    "country_short" : "MN",
+    "country_cn" : "蒙古"
+  },
+  {
+    "code" : 1,
+    "country_en" : "Montserrat",
+    "country_short" : "MS",
+    "country_cn" : "蒙特塞拉特岛"
+  },
+  {
+    "code" : 880,
+    "country_en" : "Bangladesh",
+    "country_short" : "BD",
+    "country_cn" : "孟加拉国"
+  },
+  {
+    "code" : 51,
+    "country_en" : "Peru",
+    "country_short" : "PE",
+    "country_cn" : "祕鲁"
+  },
+  {
+    "code" : 691,
+    "country_en" : "Federated States of Micronesia",
+    "country_short" : "FM",
+    "country_cn" : "密克罗尼西亚联邦"
+  },
+  {
+    "code" : 95,
+    "country_en" : "Myanmar",
+    "country_short" : "MM",
+    "country_cn" : "缅甸"
+  },
+  {
+    "code" : 373,
+    "country_en" : "Moldova",
+    "country_short" : "MD",
+    "country_cn" : "摩尔多瓦"
+  },
+  {
+    "code" : 212,
+    "country_en" : "Morocco",
+    "country_short" : "MA",
+    "country_cn" : "摩洛哥"
+  },
+  {
+    "code" : 377,
+    "country_en" : "Monaco",
+    "country_short" : "MC",
+    "country_cn" : "摩纳哥"
+  },
+  {
+    "code" : 258,
+    "country_en" : "Mozambique",
+    "country_short" : "MZ",
+    "country_cn" : "莫桑比克"
+  },
+  {
+    "code" : 52,
+    "country_en" : "Mexico",
+    "country_short" : "MX",
+    "country_cn" : "墨西哥"
+  },
+  {
+    "code" : 264,
+    "country_en" : "Namibia",
+    "country_short" : "NA",
+    "country_cn" : "纳米比亚"
+  },
+  {
+    "code" : 27,
+    "country_en" : "South Africa",
+    "country_short" : "ZA",
+    "country_cn" : "南非"
+  },
+  {
+    "code" : 211,
+    "country_en" : "South Sudan",
+    "country_short" : "SS",
+    "country_cn" : "南苏丹"
+  },
+  {
+    "code" : 674,
+    "country_en" : "Nauru",
+    "country_short" : "NR",
+    "country_cn" : "瑙鲁"
+  },
+  {
+    "code" : 505,
+    "country_en" : "Nicaragua",
+    "country_short" : "NI",
+    "country_cn" : "尼加拉瓜"
+  },
+  {
+    "code" : 977,
+    "country_en" : "Nepal",
+    "country_short" : "NP",
+    "country_cn" : "尼泊尔"
+  },
+  {
+    "code" : 227,
+    "country_en" : "Niger",
+    "country_short" : "NE",
+    "country_cn" : "尼日尔"
+  },
+  {
+    "code" : 234,
+    "country_en" : "Nigeria",
+    "country_short" : "NG",
+    "country_cn" : "尼日利亚"
+  },
+  {
+    "code" : 683,
+    "country_en" : "Niue",
+    "country_short" : "NU",
+    "country_cn" : "纽埃"
+  },
+  {
+    "code" : 47,
+    "country_en" : "Norway",
+    "country_short" : "NO",
+    "country_cn" : "挪威"
+  },
+  {
+    "code" : 672,
+    "country_en" : "Norfolk Island",
+    "country_short" : "NF",
+    "country_cn" : "诺福克群岛"
+  },
+  {
+    "code" : 351,
+    "country_en" : "Portugal",
+    "country_short" : "PT",
+    "country_cn" : "葡萄牙"
+  },
+  {
+    "code" : 81,
+    "country_en" : "Japan",
+    "country_short" : "JP",
+    "country_cn" : "日本"
+  },
+  {
+    "code" : 46,
+    "country_en" : "Sweden",
+    "country_short" : "SE",
+    "country_cn" : "瑞典"
+  },
+  {
+    "code" : 41,
+    "country_en" : "Switzerland",
+    "country_short" : "CH",
+    "country_cn" : "瑞士"
+  },
+  {
+    "code" : 503,
+    "country_en" : "El Salvador",
+    "country_short" : "SV",
+    "country_cn" : "萨尔瓦多"
+  },
+  {
+    "code" : 685,
+    "country_en" : "Samoa",
+    "country_short" : "WS",
+    "country_cn" : "萨摩亚"
+  },
+  {
+    "code" : 381,
+    "country_en" : "Serbia",
+    "country_short" : "RS",
+    "country_cn" : "塞尔维亚"
+  },
+  {
+    "code" : 232,
+    "country_en" : "Sierra Leone",
+    "country_short" : "SL",
+    "country_cn" : "塞拉利昂"
+  },
+  {
+    "code" : 221,
+    "country_en" : "Senegal",
+    "country_short" : "SN",
+    "country_cn" : "塞内加尔"
+  },
+  {
+    "code" : 357,
+    "country_en" : "Cyprus",
+    "country_short" : "CY",
+    "country_cn" : "塞浦路斯"
+  },
+  {
+    "code" : 248,
+    "country_en" : "Seychelles",
+    "country_short" : "SC",
+    "country_cn" : "塞舌尔"
+  },
+  {
+    "code" : 966,
+    "country_en" : "Saudi Arabia",
+    "country_short" : "SA",
+    "country_cn" : "沙特阿拉伯"
+  },
+  {
+    "code" : 590,
+    "country_en" : "Saint Barthélemy",
+    "country_short" : "BL",
+    "country_cn" : "圣巴泰勒米"
+  },
+  {
+    "code" : 239,
+    "country_en" : "Sao Tome and Principe",
+    "country_short" : "ST",
+    "country_cn" : "圣多美和普林西比民主共和国"
+  },
+  {
+    "code" : 290,
+    "country_en" : "Saint Helena",
+    "country_short" : "SH",
+    "country_cn" : "圣赫勒拿"
+  },
+  {
+    "code" : 1,
+    "country_en" : "Saint Kitts and Nevis",
+    "country_short" : "KN",
+    "country_cn" : "圣基茨和尼维斯"
+  },
+  {
+    "code" : 1,
+    "country_en" : "St. Lucia",
+    "country_short" : "LC",
+    "country_cn" : "圣卢西亚"
+  },
+  {
+    "code" : 590,
+    "country_en" : "Saint Martin",
+    "country_short" : "MF",
+    "country_cn" : "圣马丁"
+  },
+  {
+    "code" : 599,
+    "country_en" : "Sint Maarten",
+    "country_short" : "SX",
+    "country_cn" : "圣马丁岛"
+  },
+  {
+    "code" : 378,
+    "country_en" : "San Marino",
+    "country_short" : "SM",
+    "country_cn" : "圣马力诺"
+  },
+  {
+    "code" : 1,
+    "country_en" : "Saint Vincent and the Grenadines",
+    "country_short" : "VC",
+    "country_cn" : "圣文森特和格林纳丁斯"
+  },
+  {
+    "code" : 94,
+    "country_en" : "Sri Lanka",
+    "country_short" : "LK",
+    "country_cn" : "斯里兰卡"
+  },
+  {
+    "code" : 421,
+    "country_en" : "Slovakia",
+    "country_short" : "SK",
+    "country_cn" : "斯洛伐克"
+  },
+  {
+    "code" : 386,
+    "country_en" : "Slovenia",
+    "country_short" : "SI",
+    "country_cn" : "斯洛文尼亚"
+  },
+  {
+    "code" : 268,
+    "country_en" : "Swaziland",
+    "country_short" : "SZ",
+    "country_cn" : "斯威士兰"
+  },
+  {
+    "code" : 249,
+    "country_en" : "Sudan",
+    "country_short" : "SD",
+    "country_cn" : "苏丹"
+  },
+  {
+    "code" : 597,
+    "country_en" : "Suriname",
+    "country_short" : "SR",
+    "country_cn" : "苏里南"
+  },
+  {
+    "code" : 677,
+    "country_en" : "Solomon Islands",
+    "country_short" : "SB",
+    "country_cn" : "所罗门岛屿"
+  },
+  {
+    "code" : 252,
+    "country_en" : "Somalia",
+    "country_short" : "SO",
+    "country_cn" : "索马里"
+  },
+  {
+    "code" : 992,
+    "country_en" : "Tajikistan",
+    "country_short" : "TJ",
+    "country_cn" : "塔吉克斯坦"
+  },
+  {
+    "code" : 886,
+    "country_en" : "Taiwan",
+    "country_short" : "TW",
+    "country_cn" : "台湾"
+  },
+  {
+    "code" : 66,
+    "country_en" : "Thailand",
+    "country_short" : "TH",
+    "country_cn" : "泰国"
+  },
+  {
+    "code" : 255,
+    "country_en" : "Tanzania",
+    "country_short" : "TZ",
+    "country_cn" : "坦桑尼亚"
+  },
+  {
+    "code" : 676,
+    "country_en" : "Tonga",
+    "country_short" : "TO",
+    "country_cn" : "汤加"
+  },
+  {
+    "code" : 1,
+    "country_en" : "Turks and Caicos Islands",
+    "country_short" : "TC",
+    "country_cn" : "特克斯和凯科斯群岛"
+  },
+  {
+    "code" : 1,
+    "country_en" : "Trinidad and Tobago",
+    "country_short" : "TT",
+    "country_cn" : "特立尼达和多巴哥"
+  },
+  {
+    "code" : 216,
+    "country_en" : "Tunisia",
+    "country_short" : "TN",
+    "country_cn" : "突尼斯"
+  },
+  {
+    "code" : 688,
+    "country_en" : "Tuvalu",
+    "country_short" : "TV",
+    "country_cn" : "图瓦卢"
+  },
+  {
+    "code" : 90,
+    "country_en" : "Turkey",
+    "country_short" : "TR",
+    "country_cn" : "土耳其"
+  },
+  {
+    "code" : 993,
+    "country_en" : "Turkmenistan",
+    "country_short" : "TM",
+    "country_cn" : "土库曼斯坦"
+  },
+  {
+    "code" : 690,
+    "country_en" : "Tokelau",
+    "country_short" : "TK",
+    "country_cn" : "托克劳"
+  },
+  {
+    "code" : 681,
+    "country_en" : "Wallis and Futuna",
+    "country_short" : "WF",
+    "country_cn" : "瓦里斯和富图纳群岛"
+  },
+  {
+    "code" : 678,
+    "country_en" : "Vanuatu",
+    "country_short" : "VU",
+    "country_cn" : "萬那杜共和国"
+  },
+  {
+    "code" : 502,
+    "country_en" : "Guatemala",
+    "country_short" : "GT",
+    "country_cn" : "危地马拉"
+  },
+  {
+    "code" : 58,
+    "country_en" : "Venezuela",
+    "country_short" : "VE",
+    "country_cn" : "委内瑞拉"
+  },
+  {
+    "code" : 673,
+    "country_en" : "Brunei",
+    "country_short" : "BN",
+    "country_cn" : "文莱"
+  },
+  {
+    "code" : 256,
+    "country_en" : "Uganda",
+    "country_short" : "UG",
+    "country_cn" : "乌干达"
+  },
+  {
+    "code" : 380,
+    "country_en" : "Ukraine",
+    "country_short" : "UA",
+    "country_cn" : "乌克兰"
+  },
+  {
+    "code" : 598,
+    "country_en" : "Uruguay",
+    "country_short" : "UY",
+    "country_cn" : "乌拉圭"
+  },
+  {
+    "code" : 998,
+    "country_en" : "Uzbekistan",
+    "country_short" : "UZ",
+    "country_cn" : "乌兹别克斯坦"
+  },
+  {
+    "code" : 30,
+    "country_en" : "Greece",
+    "country_short" : "GR",
+    "country_cn" : "希腊"
+  },
+  {
+    "code" : 34,
+    "country_en" : "Spain",
+    "country_short" : "ES",
+    "country_cn" : "西班牙"
+  },
+  {
+    "code" : 212,
+    "country_en" : "Western Sahara",
+    "country_short" : "EH",
+    "country_cn" : "西撒哈拉"
+  },
+  {
+    "code" : 852,
+    "country_en" : "Hong Kong",
+    "country_short" : "HK",
+    "country_cn" : "香港"
+  },
+  {
+    "code" : 65,
+    "country_en" : "Singapore",
+    "country_short" : "SG",
+    "country_cn" : "新加坡"
+  },
+  {
+    "code" : 687,
+    "country_en" : "New Caledonia",
+    "country_short" : "NC",
+    "country_cn" : "新喀里多尼亚"
+  },
+  {
+    "code" : 64,
+    "country_en" : "New Zealand",
+    "country_short" : "NZ",
+    "country_cn" : "新西兰"
+  },
+  {
+    "code" : 36,
+    "country_en" : "Hungary",
+    "country_short" : "HU",
+    "country_cn" : "匈牙利"
+  },
+  {
+    "code" : 963,
+    "country_en" : "Syria",
+    "country_short" : "SY",
+    "country_cn" : "叙利亚"
+  },
+  {
+    "code" : 1,
+    "country_en" : "Jamaica",
+    "country_short" : "JM",
+    "country_cn" : "牙买加"
+  },
+  {
+    "code" : 374,
+    "country_en" : "Armenia",
+    "country_short" : "AM",
+    "country_cn" : "亚美尼亚"
+  },
+  {
+    "code" : 967,
+    "country_en" : "Yemen",
+    "country_short" : "YE",
+    "country_cn" : "也门"
+  },
+  {
+    "code" : 964,
+    "country_en" : "Iraq",
+    "country_short" : "IQ",
+    "country_cn" : "伊拉克"
+  },
+  {
+    "code" : 98,
+    "country_en" : "Iran",
+    "country_short" : "IR",
+    "country_cn" : "伊朗"
+  },
+  {
+    "code" : 972,
+    "country_en" : "Israel",
+    "country_short" : "IL",
+    "country_cn" : "以色列"
+  },
+  {
+    "code" : 39,
+    "country_en" : "Italy",
+    "country_short" : "IT",
+    "country_cn" : "意大利"
+  },
+  {
+    "code" : 91,
+    "country_en" : "India",
+    "country_short" : "IN",
+    "country_cn" : "印度"
+  },
+  {
+    "code" : 62,
+    "country_en" : "Indonesia",
+    "country_short" : "ID",
+    "country_cn" : "印度尼西亚"
+  },
+  {
+    "code" : 44,
+    "country_en" : "United Kingdom",
+    "country_short" : "GB",
+    "country_cn" : "英国"
+  },
+  {
+    "code" : 1,
+    "country_en" : "British Virgin Islands",
+    "country_short" : "VG",
+    "country_cn" : "英属维京群岛"
+  },
+  {
+    "code" : 246,
+    "country_en" : "British Indian Ocean Territory",
+    "country_short" : "IO",
+    "country_cn" : "英属印度洋领地"
+  },
+  {
+    "code" : 962,
+    "country_en" : "Jordan",
+    "country_short" : "JO",
+    "country_cn" : "约旦"
+  },
+  {
+    "code" : 84,
+    "country_en" : "Vietnam",
+    "country_short" : "VN",
+    "country_cn" : "越南"
+  },
+  {
+    "code" : 260,
+    "country_en" : "Zambia",
+    "country_short" : "ZM",
+    "country_cn" : "赞比亚"
+  },
+  {
+    "code" : 44,
+    "country_en" : "Jersey",
+    "country_short" : "JE",
+    "country_cn" : "泽西岛"
+  },
+  {
+    "code" : 235,
+    "country_en" : "Chad",
+    "country_short" : "TD",
+    "country_cn" : "乍得"
+  },
+  {
+    "code" : 350,
+    "country_en" : "Gibraltar",
+    "country_short" : "GI",
+    "country_cn" : "直布罗陀"
+  },
+  {
+    "code" : 56,
+    "country_en" : "Chile",
+    "country_short" : "CL",
+    "country_cn" : "智利"
+  },
+  {
+    "code" : 236,
+    "country_en" : "Central African Republic",
+    "country_short" : "CF",
+    "country_cn" : "中非共和国"
+  },
+  {
+    "code" : 86,
+    "country_en" : "China",
+    "country_short" : "CN",
+    "country_cn" : "中国"
+  }
+]

@@ -1,3 +1,3 @@
 # Phone-Country-Code-and-Flags
-port from Facebook
+Array of phone country codes and flags
  - Looking for an iOS PhoneCountryCodePicker demo? Check this! [https://github.com/Dwarven/PhoneCountryCodePicker]

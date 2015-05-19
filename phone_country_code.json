@@ -87,13 +87,13 @@
     "country_code" : "AI",
     "country_en" : "Anguilla",
     "country_cn" : "安圭拉",
-    "phone_code" : 1
+    "phone_code" : 1264
   },
   {
     "country_code" : "AG",
     "country_en" : "Antigua",
     "country_cn" : "安提瓜岛",
-    "phone_code" : 1
+    "phone_code" : 1268
   },
   {
     "country_code" : "AT",
@@ -110,14 +110,14 @@
   {
     "country_code" : "MO",
     "country_en" : "Macau",
-    "country_cn" : "澳门",
+    "country_cn" : "中国澳门特别行政区",
     "phone_code" : 853
   },
   {
     "country_code" : "BB",
     "country_en" : "Barbados",
     "country_cn" : "巴巴多斯岛",
-    "phone_code" : 1
+    "phone_code" : 1246
   },
   {
     "country_code" : "PG",
@@ -129,7 +129,7 @@
     "country_code" : "BS",
     "country_en" : "The Bahamas",
     "country_cn" : "巴哈马",
-    "phone_code" : 1
+    "phone_code" : 1242
   },
   {
     "country_code" : "PK",
@@ -177,7 +177,7 @@
     "country_code" : "BM",
     "country_en" : "Bermuda",
     "country_cn" : "百慕大",
-    "phone_code" : 1
+    "phone_code" : 1441
   },
   {
     "country_code" : "BG",
@@ -189,7 +189,7 @@
     "country_code" : "MP",
     "country_en" : "Northern Mariana Islands",
     "country_cn" : "北马里亚纳群岛",
-    "phone_code" : 1
+    "phone_code" : 1670
   },
   {
     "country_code" : "BJ",
@@ -309,13 +309,13 @@
     "country_code" : "DM",
     "country_en" : "Dominica",
     "country_cn" : "多米尼加",
-    "phone_code" : 1
+    "phone_code" : 1767
   },
   {
     "country_code" : "DO",
     "country_en" : "Dominican Republic",
     "country_cn" : "多米尼加共和国",
-    "phone_code" : 1
+    "phone_code" : 1809
   },
   {
     "country_code" : "RU",
@@ -435,7 +435,7 @@
     "country_code" : "GD",
     "country_en" : "Grenada",
     "country_cn" : "格林纳达岛",
-    "phone_code" : 1
+    "phone_code" : 1473
   },
   {
     "country_code" : "GL",
@@ -471,7 +471,7 @@
     "country_code" : "GU",
     "country_en" : "Guam",
     "country_cn" : "关岛",
-    "phone_code" : 1
+    "phone_code" : 1671
   },
   {
     "country_code" : "GY",
@@ -603,7 +603,7 @@
     "country_code" : "KY",
     "country_en" : "Cayman Islands",
     "country_cn" : "开曼群岛",
-    "phone_code" : 1
+    "phone_code" : 1345
   },
   {
     "country_code" : "KM",
@@ -813,13 +813,13 @@
     "country_code" : "AS",
     "country_en" : "American Samoa",
     "country_cn" : "美属萨摩亚",
-    "phone_code" : 1
+    "phone_code" : 1684
   },
   {
     "country_code" : "VI",
     "country_en" : "US Virgin Islands",
     "country_cn" : "美属维京群岛",
-    "phone_code" : 1
+    "phone_code" : 1340
   },
   {
     "country_code" : "MN",
@@ -831,7 +831,7 @@
     "country_code" : "MS",
     "country_en" : "Montserrat",
     "country_cn" : "蒙特塞拉特岛",
-    "phone_code" : 1
+    "phone_code" : 1664
   },
   {
     "country_code" : "BD",
@@ -1047,13 +1047,13 @@
     "country_code" : "KN",
     "country_en" : "Saint Kitts and Nevis",
     "country_cn" : "圣基茨和尼维斯",
-    "phone_code" : 1
+    "phone_code" : 1869
   },
   {
     "country_code" : "LC",
     "country_en" : "St. Lucia",
     "country_cn" : "圣卢西亚",
-    "phone_code" : 1
+    "phone_code" : 1758
   },
   {
     "country_code" : "MF",
@@ -1077,7 +1077,7 @@
     "country_code" : "VC",
     "country_en" : "Saint Vincent and the Grenadines",
     "country_cn" : "圣文森特和格林纳丁斯",
-    "phone_code" : 1
+    "phone_code" : 1784
   },
   {
     "country_code" : "LK",
@@ -1161,13 +1161,13 @@
     "country_code" : "TC",
     "country_en" : "Turks and Caicos Islands",
     "country_cn" : "特克斯和凯科斯群岛",
-    "phone_code" : 1
+    "phone_code" : 1649
   },
   {
     "country_code" : "TT",
     "country_en" : "Trinidad and Tobago",
     "country_cn" : "特立尼达和多巴哥",
-    "phone_code" : 1
+    "phone_code" : 1868
   },
   {
     "country_code" : "TN",
@@ -1274,7 +1274,7 @@
   {
     "country_code" : "HK",
     "country_en" : "Hong Kong",
-    "country_cn" : "香港",
+    "country_cn" : "中国香港特别行政区",
     "phone_code" : 852
   },
   {
@@ -1311,7 +1311,7 @@
     "country_code" : "JM",
     "country_en" : "Jamaica",
     "country_cn" : "牙买加",
-    "phone_code" : 1
+    "phone_code" : 1876
   },
   {
     "country_code" : "AM",
@@ -1371,7 +1371,7 @@
     "country_code" : "VG",
     "country_en" : "British Virgin Islands",
     "country_cn" : "英属维京群岛",
-    "phone_code" : 1
+    "phone_code" : 1284
   },
   {
     "country_code" : "IO",

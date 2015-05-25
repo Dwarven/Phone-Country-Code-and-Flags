@@ -116,7 +116,7 @@
   {
     "country_code" : "BB",
     "country_en" : "Barbados",
-    "country_cn" : "巴巴多斯岛",
+    "country_cn" : "巴巴多斯",
     "phone_code" : 1246
   },
   {
@@ -212,7 +212,7 @@
   {
     "country_code" : "PR",
     "country_en" : "Puerto Rico",
-    "country_cn" : "波多黎哥",
+    "country_cn" : "波多黎各",
     "phone_code" : 1
   },
   {
@@ -686,7 +686,7 @@
   {
     "country_code" : "LR",
     "country_en" : "Liberia",
-    "country_cn" : "利比亚",
+    "country_cn" : "利比里亚",
     "phone_code" : 231
   },
   {
@@ -782,7 +782,7 @@
   {
     "country_code" : "MQ",
     "country_en" : "Martinique",
-    "country_cn" : "马提尼岛",
+    "country_cn" : "马提尼克",
     "phone_code" : 596
   },
   {
@@ -794,7 +794,7 @@
   {
     "country_code" : "MU",
     "country_en" : "Mauritius",
-    "country_cn" : "毛里求赐",
+    "country_cn" : "毛里求斯",
     "phone_code" : 230
   },
   {
@@ -830,7 +830,7 @@
   {
     "country_code" : "MS",
     "country_en" : "Montserrat",
-    "country_cn" : "蒙特塞拉特岛",
+    "country_cn" : "蒙特塞拉特",
     "phone_code" : 1664
   },
   {
@@ -842,7 +842,7 @@
   {
     "country_code" : "PE",
     "country_en" : "Peru",
-    "country_cn" : "祕鲁",
+    "country_cn" : "秘鲁",
     "phone_code" : 51
   },
   {
@@ -1051,20 +1051,20 @@
   },
   {
     "country_code" : "LC",
-    "country_en" : "St. Lucia",
+    "country_en" : "Saint Lucia",
     "country_cn" : "圣卢西亚",
     "phone_code" : 1758
   },
   {
     "country_code" : "MF",
     "country_en" : "Saint Martin",
-    "country_cn" : "圣马丁",
+    "country_cn" : "法属圣马丁",
     "phone_code" : 590
   },
   {
     "country_code" : "SX",
     "country_en" : "Sint Maarten",
-    "country_cn" : "圣马丁岛",
+    "country_cn" : "荷属圣马丁",
     "phone_code" : 599
   },
   {
@@ -1118,7 +1118,7 @@
   {
     "country_code" : "SB",
     "country_en" : "Solomon Islands",
-    "country_cn" : "所罗门岛屿",
+    "country_cn" : "所罗门群岛",
     "phone_code" : 677
   },
   {
@@ -1202,13 +1202,13 @@
   {
     "country_code" : "WF",
     "country_en" : "Wallis and Futuna",
-    "country_cn" : "瓦里斯和富图纳群岛",
+    "country_cn" : "瓦利斯和富图纳",
     "phone_code" : 681
   },
   {
     "country_code" : "VU",
     "country_en" : "Vanuatu",
-    "country_cn" : "萬那杜共和国",
+    "country_cn" : "瓦努阿图",
     "phone_code" : 678
   },
   {
